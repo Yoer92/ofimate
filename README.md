@@ -1,0 +1,2 @@
+# ofimate
+ArchivoEscritorio
